@@ -62,10 +62,11 @@ footer p {
   margin-right: 10px;
   color: #f5ba13;
   border: none;
-  width: 36px;
-  height: 36px;
+  width: 60px;
+  height: 30px;
   cursor: pointer;
   outline: none;
+  border-radius: 1px;
 }
 
 form {
